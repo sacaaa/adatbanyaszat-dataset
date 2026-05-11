@@ -1,3 +1,3 @@
-# adatbanyaszat-dataset
+# adatbanyaszat
 
-[Dataset](https://archive-beta.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008)
+[Dataset](https://archive.ics.uci.edu/dataset/267/banknote+authentication)
